@@ -1,9 +1,0 @@
-/home/Gor027/MIM/PW/C_threads/przykłady15/cmake-build-debug/CMakeFiles/install/strip.dir
-/home/Gor027/MIM/PW/C_threads/przykłady15/cmake-build-debug/CMakeFiles/install/local.dir
-/home/Gor027/MIM/PW/C_threads/przykłady15/cmake-build-debug/CMakeFiles/install.dir
-/home/Gor027/MIM/PW/C_threads/przykłady15/cmake-build-debug/CMakeFiles/producer-consumer.dir
-/home/Gor027/MIM/PW/C_threads/przykłady15/cmake-build-debug/CMakeFiles/list_install_components.dir
-/home/Gor027/MIM/PW/C_threads/przykłady15/cmake-build-debug/CMakeFiles/err.dir
-/home/Gor027/MIM/PW/C_threads/przykłady15/cmake-build-debug/CMakeFiles/readers-writers-template.dir
-/home/Gor027/MIM/PW/C_threads/przykłady15/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/Gor027/MIM/PW/C_threads/przykłady15/cmake-build-debug/CMakeFiles/rebuild_cache.dir
