@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wall -g  -rdynamic CMakeFiles/readers-writers-template.dir/readers-writers-template.c.o  -o readers-writers-template liberr.a -lpthread 

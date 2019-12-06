@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wall -g  -rdynamic CMakeFiles/primes.dir/primes.c.o  -o primes liberr.a -lpthread 

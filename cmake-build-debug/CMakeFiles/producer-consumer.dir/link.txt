@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wall -g  -rdynamic CMakeFiles/producer-consumer.dir/producer-consumer.c.o  -o producer-consumer liberr.a -lpthread 

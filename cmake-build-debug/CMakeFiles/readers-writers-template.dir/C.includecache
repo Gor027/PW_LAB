@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/Gor027/MIM/PW/C_threads/przykłady15/err.h
+
+/home/Gor027/MIM/PW/C_threads/przykłady15/readers-writers-template.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+pthread.h
+-
+err.h
+/home/Gor027/MIM/PW/C_threads/przykłady15/err.h
+
